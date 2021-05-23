@@ -46,5 +46,13 @@ ggplot(agedata, aes(x = as.factor(fw_age), y = length_mm, fill = as.factor(fw_ag
   scale_fill_manual(values = c("#F78D71", "#B5517D", "#463075")) +
   labs(x = "Freshwater Age", 
        y = "Length (mm)") +
-  facet_wrap(~location) 
+  facet_wrap(~location) +
+  theme_light() +
+  theme(
+    legend.position = "none",
+    panel.grid.major = element_blank(),
+    panel.grid.minor = element_blank(),
+    strip.background = element_rect(fill = NA, color = NA),
+    strip.text.x = element_text(color = "gray30"),
+  )
 
