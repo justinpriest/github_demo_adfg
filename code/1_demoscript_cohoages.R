@@ -6,7 +6,7 @@
 
 
 #####      DEMO SCRIPT      ####
-# Data are from ADF&G Coho Collections
+# Data are from ADF&G SEAK Coho Collections
 # Shaul et al. 2019
 # Stock Status and Review of Factors Affecting Coho Salmon 
 #   Returns and Escapements in Southeast Alaska
