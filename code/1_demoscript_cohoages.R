@@ -1,5 +1,5 @@
 # GitHub for Fisheries Scientists
-# May 25, 2021
+# February 23, 2022
 # Justin Priest & Sara Miller
 # justin.priest@alaska.gov
 # sara.miller@alaska.gov
