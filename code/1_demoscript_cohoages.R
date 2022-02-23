@@ -80,4 +80,4 @@ ggplot(agedata, aes(y = year, x= length_mm, group = year)) +
   theme_light() +
   facet_wrap(~location)
 
-# made some edits here
+
