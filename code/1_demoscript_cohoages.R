@@ -5,6 +5,7 @@
 # sara.miller@alaska.gov
 
 
+
 #####      DEMO SCRIPT      ####
 # Data are from ADF&G SEAK Coho Collections
 # Shaul et al. 2019
@@ -80,4 +81,4 @@ ggplot(agedata, aes(y = year, x= length_mm, group = year)) +
   theme_light() +
   facet_wrap(~location)
 
-
+I made some changes here.
